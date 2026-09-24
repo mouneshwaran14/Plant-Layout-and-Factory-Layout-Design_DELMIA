@@ -43,6 +43,7 @@ The plant layout design is prepared using DELMIA Plant Layout Design and is show
 
 
 
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/88e27459-9468-4736-91c8-ce7529e0cd38" />
 
  
 10. Conclusion
